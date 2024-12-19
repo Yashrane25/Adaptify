@@ -1,1 +1,1 @@
-# Adapifi
+# Adaptify
